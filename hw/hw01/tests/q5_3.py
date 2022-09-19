@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_3',
     'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> isinstance(gws_relative_change, (int, float))\nTrue', 'hidden': False, 'locked': False},
